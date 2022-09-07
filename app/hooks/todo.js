@@ -25,7 +25,7 @@ let dummyTodos = [
             content: 'Understand Static Todo App',
             marked: false,          
         }
-
+ 
     },
     {
         account:{
